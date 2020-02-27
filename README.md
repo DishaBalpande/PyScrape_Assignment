@@ -11,7 +11,4 @@ Phone Name, Price;
 Samsung Galaxy A50, 12999;
 Samsung Galaxy M30s, 12999;
 
-You should have about 200+ phones in your list.
 
-How to submit your code?
-You can send a github link to me along with the .csv output file. Please name your output file as {YourFirstName}_{PyScrape}.csv
